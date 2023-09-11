@@ -1,3 +1,3 @@
 This is my first Repository.
 <br>
-Author- Prince kumar
+<h1>Author- Prince kumar</h1>
